@@ -1,4 +1,6 @@
-import sqlite3, config
+''''This module creates a database using the config file'''
+import sqlite3
+import config
 
 connection = sqlite3.connect(config.DB_FILE)
 
