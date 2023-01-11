@@ -1,0 +1,4 @@
+fastapi
+scrapy
+pandas
+numpy
